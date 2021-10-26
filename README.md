@@ -1,17 +1,17 @@
-## Hola, I'm [Firman Lestari!](https://github.com/zeetec20) 👋
+## Hola, I'm [Firman Lestari!](https://firmanlestari.vercel.app/) 👋
 
 - 🔭 I’m currently working on Pixel Dev Factory.
 - 🌱 I’m focused on Mobile Development.
 - 👨‍💻 I’m mostly use programming language <b>Dart</b> with framework <b>Flutter</b>
 - 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to contact me: [contact me](https://github.com/zeetec20)
+- 📫 How to contact me: [contact me](https://firmanlestari.vercel.app/about)
 - ⚡ Fun fact: I love coffee ☕
 
 <br>
 
 [![Linkedin: firmanlestari](https://img.shields.io/badge/-firmanlestari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firmanlestari/)](https://www.linkedin.com/in/firmanlestari/)
 [![GitHub zeetec20](https://img.shields.io/github/followers/zeetec20?label=follow&style=social)](https://github.com/zeetec20)
-[![website](https://img.shields.io/badge/PortfolioWebsite-firman-2648ff?style=flat-square&logo=google-chrome)](https://github.com/zeetec20)
+[![website](https://img.shields.io/badge/PortfolioWebsite-firmanlestari.vercel.app-2648ff?style=flat-square&logo=google-chrome)](https://firmanlestari.vercel.app/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeetec20&label=Views&color=blue&style=plastic" alt="zeetec20" /> </p>
 
