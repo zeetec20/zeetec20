@@ -1,5 +1,7 @@
 <div align="center">
- <img src="https://i.giphy.com/media/uVsrKgC065LVgp85Rq/giphy.webp" width="100" height="100">
+ <a href="javascript:void(0)">
+  <img src="https://i.giphy.com/media/uVsrKgC065LVgp85Rq/giphy.webp" width="100" height="100">
+ </a>
 </div>
 
 <br>
