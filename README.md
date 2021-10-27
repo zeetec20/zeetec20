@@ -1,3 +1,9 @@
+<div align="center">
+ <img src="https://i.giphy.com/media/uVsrKgC065LVgp85Rq/giphy.webp" width="100" height="100">
+</div>
+
+<br>
+
 ## Hola, I'm [Firman Justisio Lestari!](https://firmanlestari.vercel.app/) 👋
 
 - 🔭 I’m currently working on Pixel Dev Factory.
