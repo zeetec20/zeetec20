@@ -1,7 +1,5 @@
 <div align="center">
- <a href="javascript:void(0)">
   <img src="https://i.giphy.com/media/uVsrKgC065LVgp85Rq/giphy.webp" width="100" height="100">
- </a>
 </div>
 
 <br>
@@ -39,7 +37,7 @@
 **Github Stats:**
 
 <a href="https://github.com/zeetec20">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeetec20&show_icons=true&theme=light&line_height=27" alt="Firman github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeetec20&show_icons=true&theme=light&line_height=27" alt="Firman github stats"/>
 </a>
 <br>
 <br>
