@@ -1,49 +1,49 @@
-<div align="center">
-  <img src="http://38.media.tumblr.com/d30fe069cc48e11eeb31ae08293a159e/tumblr_nbtdxg9d6n1szf0nzo1_250.gif" width="170" height="170">
-</div>
+# 👋 Hi, I'm Firman Lestari
 
-<br>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1602661287394-ccf02e1a0893?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" height="220" style="object-fit: cover;" alt="Banner"/>
+</p>
 
-## Helo, I'm [Firman Justisio Lestari](https://firmanlestari.vercel.app/) 👋
+<p align="center">
+  <b>Full Stack Engineer</b> • TypeScript Enthusiast • Open Source Explorer
+</p>
 
-- 🔭 I’m currently working on Pixel Dev Factory.
-- 🌱 I’m focused on Mobile Development.
-- 👨‍💻 I’m mostly use programming language <b>Dart</b> with framework <b>Flutter</b>
-- 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to contact me: [contact me](https://firmanlestari.vercel.app/about)
-- ⚡ Fun fact: I love coffee ☕
+<p align="center">
+  <a href="https://github.com/zeetec20">
+    <img src="https://komarev.com/ghpvc/?username=zeetec20&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/zeetec20?tab=followers">
+    <img src="https://img.shields.io/github/followers/zeetec20?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/TypeScript-Lover-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github" />
+</p>
 
-<br>
+## 🚀 About Me
 
-[![Linkedin: firmanlestari](https://img.shields.io/badge/-firmanlestari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firmanlestari/)](https://www.linkedin.com/in/firmanlestari/)
-[![GitHub zeetec20](https://img.shields.io/github/followers/zeetec20?label=follow&style=social)](https://github.com/zeetec20)
-[![website](https://img.shields.io/badge/PortfolioWebsite-firmanlestari.vercel.app-2648ff?style=flat-square&logo=google-chrome)](https://firmanlestari.vercel.app/)
+- 💼 Full Stack Engineer from Indonesia 🇮🇩
+- ⚡ Building web applications with **TypeScript**
+- 🌐 Working with **React, Next.js, Node.js, Strapi**
+- 🐳 Enjoy self-hosting, Docker, and backend architecture
+- 🌱 Currently exploring **Rust**, **GO**, **AI**, and modern web technologies
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeetec20&label=Views&color=blue&style=plastic" alt="zeetec20" /> </p>
+## 📊 GitHub Stats
 
-<br>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zeetec20&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeetec20&layout=compact&hide_border=true&theme=transparent" />
+</p>
 
-**Languages and Tools:**  
+## 🌐 Connect With Me
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-<br>
-
-**Github Stats:**
-
-<a href="https://github.com/zeetec20">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeetec20&show_icons=true&theme=light&line_height=27" alt="Firman github stats"/>
-</a>
-<br>
-<br>
-
-**Most Used Language:**
-
-<a href="https://github.com/zeetec20">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeetec20&theme=light&hide_langs_below=1" />
-</a>
+<p align="left">
+  <a href="https://github.com/zeetec20">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/firman-lestari">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://firman.my.id">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
