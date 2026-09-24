@@ -27,19 +27,9 @@
 - 🐳 Enjoy self-hosting, Docker, and backend architecture
 - 🌱 Currently exploring **Rust**, **GO**, **AI**, and modern web technologies
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zeetec20&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeetec20&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/zeetec20">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://linkedin.com/in/firman-lestari">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
